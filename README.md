@@ -24,5 +24,5 @@ To apply the settings:
 2. Open FancyZones settings and launch the __layout editor__
 3. Apply desired layouts to your monitor(s)
 
-* switch between the custom layouts using `Win + Ctrl + Alt + ` and a number `1` to `6`.
+* switch between the custom layouts using `Win + Ctrl + Alt +` and a number `1` to `6`.
 * `Win + D` shows the desktop.
