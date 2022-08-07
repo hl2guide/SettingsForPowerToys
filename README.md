@@ -4,7 +4,7 @@ Settings files for use with Microsoft PowerToys (https://github.com/microsoft/Po
 
 # How to Use Settings 🔧
 
-* _FancyZones: adds two additional custom layouts and removes all deadzone spacing_
+* _FancyZones: adds two additional custom layouts and removes all "space around zones"_
 
 ## PowerToys 🪀
 
