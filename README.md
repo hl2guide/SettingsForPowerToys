@@ -4,7 +4,7 @@ Settings files for use with Microsoft PowerToys (https://github.com/microsoft/Po
 
 # How to Use Settings 🔧
 
-* _FancyZones: adds two additional custom layouts and removes all "space around zones"_
+* _FancyZones: adds six additional custom layouts and removes all "space around zones"_
 
 ## PowerToys 🪀
 
@@ -24,5 +24,5 @@ To apply the settings:
 2. Open FancyZones settings and launch the __layout editor__
 3. Apply desired layouts to your monitor(s)
 
-* switch custom layouts using `Win + Ctrl + Alt + 1` or `Win + Ctrl + Alt + 2`.
+* switch between the custom layouts using `Win + Ctrl + Alt + ` and a number `1` to `6`.
 * `Win + D` shows the desktop.

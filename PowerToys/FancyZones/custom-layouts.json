@@ -2,7 +2,7 @@
   "custom-layouts": [
     {
       "uuid": "{43B0E0FF-0CB0-4F78-882B-D4890229B8B7}",
-      "name": "2 Columns",
+      "name": "2 Rows",
       "type": "grid",
       "info": {
         "rows": 2,
@@ -45,6 +45,122 @@
           [
             0,
             1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    },
+    {
+      "uuid": "{85A9E867-4B5F-40A3-8E5D-50E2AAA1416B}",
+      "name": "Left Priority Grid",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          7473,
+          2527
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    },
+    {
+      "uuid": "{933B10DA-E8B2-49AC-B022-C002856240CC}",
+      "name": "Right Priority Grid",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          2525,
+          7475
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    },
+    {
+      "uuid": "{1469B2B3-F438-49A3-853C-74A18C19167A}",
+      "name": "Canvas Overlap",
+      "type": "canvas",
+      "info": {
+        "ref-width": 1920,
+        "ref-height": 1032,
+        "zones": [
+          {
+            "X": 14,
+            "Y": 16,
+            "width": 972,
+            "height": 555
+          },
+          {
+            "X": 197,
+            "Y": 172,
+            "width": 972,
+            "height": 555
+          },
+          {
+            "X": 738,
+            "Y": 298,
+            "width": 972,
+            "height": 555
+          },
+          {
+            "X": 948,
+            "Y": 477,
+            "width": 972,
+            "height": 555
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{DEF56264-5277-4210-BB4F-71C0FC5CF8F4}",
+      "name": "2 Rows and 2 Columns",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          5000,
+          5000
+        ],
+        "columns-percentage": [
+          5000,
+          5000
+        ],
+        "cell-child-map": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            3
           ]
         ],
         "show-spacing": true,
