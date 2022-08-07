@@ -1,0 +1,56 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{43B0E0FF-0CB0-4F78-882B-D4890229B8B7}",
+      "name": "2 Columns",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 1,
+        "rows-percentage": [
+          5000,
+          5000
+        ],
+        "columns-percentage": [
+          10000
+        ],
+        "cell-child-map": [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    },
+    {
+      "uuid": "{E5304E8C-6AF3-4EE8-B302-4C4D47BC0BBE}",
+      "name": "2 Columns",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          5010,
+          4990
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    }
+  ]
+}
