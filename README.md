@@ -2,6 +2,10 @@
 
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
+Example:
+
+![example image](https://github.com/hl2guide/SettingsForPowerToys/raw/master/src/common/images/example.png "Example")
+
 # How to Use Settings 🔧
 
 * _FancyZones: adds six additional custom layouts and removes all "space around zones"_
