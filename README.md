@@ -4,7 +4,7 @@ Settings files for use with Microsoft PowerToys (https://github.com/microsoft/Po
 
 Example:
 
-![example image](https://github.com/hl2guide/SettingsForPowerToys/raw/master/src/common/images/example.png "Example")
+![example image](https://raw.githubusercontent.com/hl2guide/SettingsForPowerToys/main/images/example.png "Example")
 
 # How to Use Settings 🔧
 
