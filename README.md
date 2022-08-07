@@ -14,11 +14,14 @@ To apply the settings:
 3. Open folder in File Explorer: `%LOCALAPPDATA%\Microsoft\PowerToys`
 4. Make a backup of all files to another location (before)
 5. Copy files from this repo into and replace all existing
-6. Launch PowerToys
-7. Open FancyZones settings and launch the layout editor
-8. Apply desired layouts to your monitor(s)
 
-Done 😀
+# Once Installed
+
+## FancyZones
+
+1. Launch PowerToys
+2. Open FancyZones settings and launch the __layout editor__
+3. Apply desired layouts to your monitor(s)
 
 * switch custom layouts using `Win + Ctrl + Alt + 1` or `Win + Ctrl + Alt + 2`.
 * `Win + D` shows the desktop.
