@@ -4,7 +4,7 @@ Settings files for use with Microsoft PowerToys (https://github.com/microsoft/Po
 
 # How to Use Settings 🔧
 
-For FancyZones these settings add two additional custom layouts and remove all deadzone spacing.
+* _FancyZones: adds two additional custom layouts and removes all deadzone spacing_
 
 ## PowerToys 🪀
 
@@ -14,7 +14,7 @@ To apply the settings:
 2. Close off PowerToys (check Taskbar icon is gone)
 3. Open folder in File Explorer: `%LOCALAPPDATA%\Microsoft\PowerToys`
 4. Make a backup of all files to another location (before)
-5. Copy files from this repo into and replace all existing
+5. Copy files from this repo into the folder and replace all existing files
 
 # Once Installed 💡
 
