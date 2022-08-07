@@ -1,11 +1,12 @@
-# SettingsForPowerToys
+# SettingsForPowerToys 📝
+
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
 # How to Use Settings 🔧
 
-## PowerToys 🪀
+For FancyZones these settings add two additional custom layouts and remove all deadzone spacing.
 
-These settings add two additional custom layouts and remove all deadzone spacing.
+## PowerToys 🪀
 
 To apply the settings:
 
@@ -15,9 +16,9 @@ To apply the settings:
 4. Make a backup of all files to another location (before)
 5. Copy files from this repo into and replace all existing
 
-# Once Installed
+# Once Installed 💡
 
-## FancyZones
+## FancyZones 🪟
 
 1. Launch PowerToys
 2. Open FancyZones settings and launch the __layout editor__
