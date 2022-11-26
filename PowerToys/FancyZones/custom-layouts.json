@@ -2,7 +2,7 @@
   "custom-layouts": [
     {
       "uuid": "{43B0E0FF-0CB0-4F78-882B-D4890229B8B7}",
-      "name": "2 Rows",
+      "name": "Right Priority Stack",
       "type": "grid",
       "info": {
         "rows": 2,
@@ -210,16 +210,16 @@
           5000
         ],
         "columns-percentage": [
-          6666,
-          3334
+          3333,
+          6667
         ],
         "cell-child-map": [
           [
             0,
-            1
+            2
           ],
           [
-            0,
+            1,
             2
           ]
         ],
