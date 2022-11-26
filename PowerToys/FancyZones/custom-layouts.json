@@ -167,6 +167,66 @@
         "spacing": 0,
         "sensitivity-radius": 0
       }
+    },
+    {
+      "uuid": "{1DDA3B65-2AAE-48B0-9017-865457E1CD0C}",
+      "name": "Left Priority Stack",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          5001,
+          4999
+        ],
+        "columns-percentage": [
+          6666,
+          3334
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
+    },
+    {
+      "uuid": "{8224D6A0-D7A7-40FD-B054-99B51383E193}",
+      "name": "Right Priority Stack",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          5000,
+          5000
+        ],
+        "columns-percentage": [
+          6666,
+          3334
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 0,
+        "sensitivity-radius": 0
+      }
     }
   ]
 }
