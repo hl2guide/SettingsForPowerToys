@@ -2,7 +2,7 @@
   "custom-layouts": [
     {
       "uuid": "{43B0E0FF-0CB0-4F78-882B-D4890229B8B7}",
-      "name": "Right Priority Stack",
+      "name": "2 Rows",
       "type": "grid",
       "info": {
         "rows": 2,
