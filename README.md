@@ -1,5 +1,7 @@
 # SettingsForPowerToys 📝
 
+Last Edited: 2022-12-21 05:15:11PM
+
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
 Example:
@@ -8,8 +10,21 @@ Example:
 
 # How to Use Settings 🔧
 
-* _FancyZones: adds six additional custom layouts and removes all "space around zones"_
-    * Currently __FancyZones__ is more functional and easier to use than Windows 11's window manager
+## FancyZones
+
+Adds additional custom layouts and removes all "space around zones".
+
+8 Custom layouts added:
+1. 2 Rows
+2. 2 Columns
+3. Left Priority Grid
+4. Right Priority Grid
+5. Canvas Overlap
+6. 2 Rows and 2 Columns
+7. Left Priority Stack
+8. Right Priority Stack
+
+_Currently __FancyZones__ is more functional and easier to use than Windows 11's window manager_
 
 ## PowerToys 🪀
 
