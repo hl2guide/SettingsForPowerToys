@@ -1,6 +1,6 @@
 # SettingsForPowerToys 📝
 
-Last Edited: 2023-05-29 06:24:11PM
+Last Edited: 2023-05-29 06:24:11PM AEST
 
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
