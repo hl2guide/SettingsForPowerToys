@@ -30,6 +30,10 @@ _Currently __FancyZones__ is more functional and easier to use than Windows 11's
 
 To apply the settings:
 
+Check out the `releases` page.
+
+_OR_
+
 1. Install [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 2. Once installed, close off PowerToys (check Taskbar icon is gone)
 3. Open the folder `%LOCALAPPDATA%\Microsoft\PowerToys` in File Explorer
