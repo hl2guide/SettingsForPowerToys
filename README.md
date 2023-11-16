@@ -1,6 +1,7 @@
 # SettingsForPowerToys 📝
 
 Last Edited: 2023-11-16
+Version: 1.1
 
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
@@ -20,9 +21,10 @@ Adds additional custom layouts and removes all "space around zones".
 3. Left Priority Grid
 4. Right Priority Grid
 5. Canvas Overlap
-6. 2 Rows and 2 Columns
+6. 2x2 Grid
 7. Left Priority Stack
 8. Right Priority Stack
+9. 3x3 Grid
 
 _Currently __FancyZones__ is more functional and easier to use than Windows 11's window manager_
 
