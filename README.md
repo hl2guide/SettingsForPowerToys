@@ -1,6 +1,7 @@
 # SettingsForPowerToys 📝
 
 Last Edited: 2023-11-16
+
 Version: 1.1
 
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
