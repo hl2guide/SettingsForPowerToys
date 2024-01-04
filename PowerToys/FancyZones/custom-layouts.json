@@ -22,8 +22,8 @@
             1
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -47,8 +47,8 @@
             1
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -72,8 +72,8 @@
             1
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -97,8 +97,8 @@
             1
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -107,32 +107,32 @@
       "name": "Canvas Overlap",
       "type": "canvas",
       "info": {
-        "ref-width": 1920,
-        "ref-height": 1032,
+        "ref-width": 2560,
+        "ref-height": 1392,
         "zones": [
           {
-            "X": 14,
-            "Y": 16,
-            "width": 972,
-            "height": 555
+            "X": 18,
+            "Y": 21,
+            "width": 1296,
+            "height": 748
           },
           {
-            "X": 197,
-            "Y": 172,
-            "width": 972,
-            "height": 555
+            "X": 150,
+            "Y": 184,
+            "width": 1296,
+            "height": 748
           },
           {
-            "X": 738,
-            "Y": 298,
-            "width": 972,
-            "height": 555
+            "X": 984,
+            "Y": 401,
+            "width": 1296,
+            "height": 748
           },
           {
-            "X": 948,
-            "Y": 477,
-            "width": 972,
-            "height": 555
+            "X": 1264,
+            "Y": 643,
+            "width": 1296,
+            "height": 748
           }
         ],
         "sensitivity-radius": 20
@@ -163,8 +163,8 @@
             3
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -193,8 +193,8 @@
             2
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
@@ -223,14 +223,14 @@
             2
           ]
         ],
-        "show-spacing": false,
-        "spacing": 0,
+        "show-spacing": true,
+        "spacing": 6,
         "sensitivity-radius": 0
       }
     },
     {
       "uuid": "{0AD08900-0157-4869-AB76-27616F6C4F73}",
-      "name": "3x3 Grid",
+      "name": "3x2 Grid",
       "type": "grid",
       "info": {
         "rows": 2,
@@ -256,9 +256,9 @@
             5
           ]
         ],
-        "show-spacing": false,
-        "spacing": 16,
-        "sensitivity-radius": 20
+        "show-spacing": true,
+        "spacing": 6,
+        "sensitivity-radius": 0
       }
     }
   ]

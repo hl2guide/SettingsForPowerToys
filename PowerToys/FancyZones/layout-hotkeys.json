@@ -1,0 +1,40 @@
+{
+  "layout-hotkeys": [
+    {
+      "key": 1,
+      "layout-id": "{43B0E0FF-0CB0-4F78-882B-D4890229B8B7}"
+    },
+    {
+      "key": 2,
+      "layout-id": "{E5304E8C-6AF3-4EE8-B302-4C4D47BC0BBE}"
+    },
+    {
+      "key": 3,
+      "layout-id": "{85A9E867-4B5F-40A3-8E5D-50E2AAA1416B}"
+    },
+    {
+      "key": 4,
+      "layout-id": "{933B10DA-E8B2-49AC-B022-C002856240CC}"
+    },
+    {
+      "key": 5,
+      "layout-id": "{1469B2B3-F438-49A3-853C-74A18C19167A}"
+    },
+    {
+      "key": 6,
+      "layout-id": "{DEF56264-5277-4210-BB4F-71C0FC5CF8F4}"
+    },
+    {
+      "key": 7,
+      "layout-id": "{1DDA3B65-2AAE-48B0-9017-865457E1CD0C}"
+    },
+    {
+      "key": 8,
+      "layout-id": "{8224D6A0-D7A7-40FD-B054-99B51383E193}"
+    },
+    {
+      "key": 9,
+      "layout-id": "{0AD08900-0157-4869-AB76-27616F6C4F73}"
+    }
+  ]
+}
