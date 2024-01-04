@@ -1,14 +1,18 @@
 # SettingsForPowerToys 📝
 
-Last Edited: 2023-11-16
+Last Edited: 2024-01-04 03:55:55PM
 
-Version: 1.1
+Version: 1.2
 
 Settings files for use with Microsoft PowerToys (https://github.com/microsoft/PowerToys).
 
 Example:
 
 ![example image](https://raw.githubusercontent.com/hl2guide/SettingsForPowerToys/main/images/example.png "Example")
+
+# Latest Changes
+
+- Added 6px space around zones for supporting legacy window composition
 
 # How to Use Settings 🔧
 
