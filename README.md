@@ -44,7 +44,7 @@ To apply the settings:
 4. Launch PowerToys
 5. Open the `PowerToys Settings` app
 6. Navigate to `General` on the left sidebar
-7. Under Backup & restore press the `Restore` button
+7. Under `Backup & restore` press the `Restore` button
 
 # Once Installed 💡
 
